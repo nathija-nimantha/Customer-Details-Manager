@@ -30,8 +30,8 @@ This is a simple customer management application built using JavaFX. The applica
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/nathija-nimantha/Customer-Details-Manager
+   cd Customer-Details-Manager
    ```
 
 2. **Build the project:**
